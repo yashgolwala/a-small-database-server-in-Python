@@ -5,7 +5,8 @@
 
 <p>
 You will also build a trivial client application to access the server. Again, you can use the sample code on the main python website as a starting point. The idea is that you will send a request (just a text string) to the server and ask for a specific task to be performed. The possible requests are as follows:</p>
-<br><ol><li>Python DB Menu</li>
+<br><b>Python DB Menu</b><br>
+<ol>
   <li> Find customer</li> 
   <li> Add customer</li>
   <li> Delete customer</li> 
