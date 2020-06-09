@@ -15,7 +15,7 @@ You will also build a trivial client application to access the server. Again, yo
   <li> Update customer age address phone</li>
   <li> Print report</li>
   <li> Exit</li>
-  <br>
-  <li>Select:</li></ol>
+  <br></ol>
+Select:
   
   <p>For full details follow the Description.pdf file
