@@ -1,0 +1,20 @@
+Ray|45|hajd|514567
+Ap|30|queen street|yash
+Katya|80|49 Queen Mary Road|51451445
+Ahmad|91|1888 Pepper Lane|
+Doe| 28| St Laurent Road|514-514-5114
+Nish| 40| 123 Street | 1234561234
+Ani| 30| 234-23 Laval | 635 514 8998
+Pete| 27| this Street | 
+Sam|20| Laval Nord| 
+Raj| 40 | India | 9110939124
+Ravi| 92 | France |
+Rakj| 70 | India | 5555
+Chi| 30 | boulevard quebec | 789-832-1234
+Chai| 50| China | 435
+Iyer| 30 | chennai | 12345
+Pal| 25 | seattle | 135687346
+Roy| 60 | Washington | 4564564566
+Yash|24||
+Ya|12|sad|1
+Donald|40|United States Of America|356
